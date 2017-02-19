@@ -21,5 +21,15 @@ namespace SimpleCalculator03
             get { return _y; }
             set { _y = value; }
         }
+        public int Add()
+        {
+            return X + Y;
+
+        }
+        public int Less()
+        {
+            return X - Y;
+
+        }
     }
 }

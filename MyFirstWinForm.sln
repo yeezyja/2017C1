@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculatior02", "Simp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator03", "SimpleCalculator03\SimpleCalculator03.csproj", "{880F9E5D-066E-45DA-9D38-E1F91D3A797D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI", "..\BMI\BMI\BMI.csproj", "{E19D30E7-0FB3-458B-B219-CA448717130F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{880F9E5D-066E-45DA-9D38-E1F91D3A797D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{880F9E5D-066E-45DA-9D38-E1F91D3A797D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{880F9E5D-066E-45DA-9D38-E1F91D3A797D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19D30E7-0FB3-458B-B219-CA448717130F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19D30E7-0FB3-458B-B219-CA448717130F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19D30E7-0FB3-458B-B219-CA448717130F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19D30E7-0FB3-458B-B219-CA448717130F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

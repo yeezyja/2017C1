@@ -12,6 +12,8 @@ namespace SimpleCalculatior02
 {
     public partial class Form1 : Form
     {
+       
+
 
         double x, y;
         public Form1()
@@ -76,7 +78,13 @@ namespace SimpleCalculatior02
         {
 
         }
-        private  string GetResult(int i)
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private string GetResult(int i)
         {
              x = double.Parse(textBox3.Text);
              y = double.Parse(textBox1.Text);
